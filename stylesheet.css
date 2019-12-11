@@ -13,7 +13,6 @@ h1{
   position: sticky;
   width: 100%;
   top:0px;
-  background-color: #FFFFFF;
 }
 
 .like-body{
@@ -24,7 +23,7 @@ h1{
 h2, h3 {
   font-family: 'Lato', sans-serif;
   font-size: 1.5rem;
-  margin: 0;	
+  margin: 0;
   padding-bottom: .5rem;
   }
 
@@ -46,12 +45,11 @@ h2, h3 {
 
 .category{
   position: sticky;
-  position: -webkit-sticky;
+  position: -webkite-sticky;
   top: 0;
   width: 100%;
   background-color: #FFFFFF;
 }
-
 
 body {
   font-family: 'Cormorant Garamond', serif;
@@ -60,16 +58,31 @@ body {
 	margin-right: 10%;
   background-color: #FFFFFF;
 }
+
 a {
   color:#0a4fff;
   text-decoration: none;
   font-style: italic;
 }
+
 a:hover{
   background-color: #FF0000;
   color: #FFFFFF;
   font-style: normal;
 }
+
+.email:after{
+  content: "say hello ツ";
+  color: black;
+  font-style: normal;
+}
+
+.email:hover::after{
+  content: "amelia.a.zhou@gmail.com";
+  background: #FF0000;
+  color: #FFFFFF;
+}
+
 .indent{
   margin-left: 2.5em;
   padding: 0px;
