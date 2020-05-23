@@ -40,7 +40,7 @@ h2, h3 {
   padding-right: .5rem;
   padding-top: .35rem;
   border: 0.5px solid black;
-  background: #FFFFFF;
+  background: #FFFAF1;
 }
 
 .category{
@@ -48,7 +48,7 @@ h2, h3 {
   position: -webkite-sticky;
   top: 0;
   width: 100%;
-  background-color: #FFFFFF;
+  background-color: #FFFAF1;
 }
 
 body {
@@ -56,7 +56,7 @@ body {
 	font-size: 1.4rem;
 	margin-left: 10%;
 	margin-right: 10%;
-  background-color: #FFFFFF;
+  background-color: #FFFAF1;
 }
 
 a {
@@ -67,7 +67,7 @@ a {
 
 a:hover{
   background-color: #FF0000;
-  color: #FFFFFF;
+  color: #FFFAF1;
   font-style: normal;
 }
 
@@ -80,7 +80,7 @@ a:hover{
 .email:hover::after{
   content: "amelia.a.zhou@gmail.com";
   background: #FF0000;
-  color: #FFFFFF;
+  color: #FFFAF1;
 }
 
 .indent{
