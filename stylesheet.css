@@ -80,7 +80,7 @@ a:hover{
 .email:hover::after{
   content: "amelia.a.zhou@gmail.com";
   background: #FF0000;
-  color: #eaeadc;
+  color: #FFFFFF;
 }
 
 .indent{
