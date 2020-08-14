@@ -40,7 +40,7 @@ h2, h3 {
   padding-right: .5rem;
   padding-top: .35rem;
   border: 0.5px solid black;
-  background: #eaeadc;
+  background: #F2F4F6;
 }
 
 .category{
@@ -48,15 +48,15 @@ h2, h3 {
   position: -webkite-sticky;
   top: 0;
   width: 100%;
-  background-color: #eaeadc;
+  background-color: #F2F4F6;
 }
 
 body {
   font-family: 'Cormorant Garamond', serif;
-	font-size: 1.4rem;
+	font-size: 1.3rem;
 	margin-left: 10%;
 	margin-right: 10%;
-  background-color: #eaeadc;
+  background-color: #F2F4F6;
 }
 
 a {
@@ -72,7 +72,7 @@ a:hover{
 }
 
 .email:after{
-  content: "say hello ツ";
+  content: "say hello";
   color: black;
   font-style: normal;
 }
