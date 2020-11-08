@@ -40,7 +40,7 @@ h2, h3 {
   padding-right: .5rem;
   padding-top: .35rem;
   border: 0.5px solid black;
-  background: #F2F4F6;
+  background-color: inherit;
 }
 
 .category{
@@ -48,7 +48,7 @@ h2, h3 {
   position: -webkite-sticky;
   top: 0;
   width: 100%;
-  background-color: #F2F4F6;
+  background-color: inherit;
 }
 
 body {
@@ -56,8 +56,9 @@ body {
 	font-size: 1.3rem;
 	margin-left: 10%;
 	margin-right: 10%;
-  background-color: #F2F4F6;
-}
+  background: rgb(242,244,246);
+  background: linear-gradient(360deg, rgba(242,244,246,1) 40%, rgba(242,248,254,1) 75%);}
+
 
 a {
   color:#0a4fff;
